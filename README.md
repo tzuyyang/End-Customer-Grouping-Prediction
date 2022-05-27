@@ -1,4 +1,4 @@
-# End Customer Grouping Prediction (Text Mining)
+# End Customer Grouping Prediction
 - Business Problem: There are roughly 10K of new end customers appear in sales report per month. My job, as the data specialist, is to make sure those new end customers with high budget flags are assigned to the correct groups. However, messy data can make the cleaning and grouping process time consuming. 
   - Sample of the new end customers exported
 
@@ -23,5 +23,5 @@ A Naive Bayes classifer will be used in this machine learning modeling. The proc
   8. Predict and Evaluate
 
 ## Why chosing Naive Bayes Model?
- - Please refer to another repository.
+ - Please refer to another repository regarding text mining.
 
