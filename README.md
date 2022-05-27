@@ -22,6 +22,6 @@ A Naive Bayes classifer will be used in this machine learning modeling. The proc
   7. Train model on the data
   8. Predict and Evaluate
 
-## Why using Naive Bayes Model
- - Will talk about this in another repository.
+## Why chosing Naive Bayes Model?
+ - Please refer to another repository.
 
