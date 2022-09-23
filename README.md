@@ -2,7 +2,7 @@
 - Business Problem: There are roughly 10K of new end customers appear in sales report per month. My job, as the data specialist, is to make sure those new end customers with high budget flags are assigned to the correct groups. However, messy data can make the cleaning and grouping process time consuming. 
   - Sample of the new end customers exported
 
-    | New End Customers Exported| Budget USD (M)| 
+    | New End Customers Exported| Revenue in USD (M)| 
     | ------------- |:-------------------------:| 
     | CREATION TECHNOLOGIES WISCONSIN INC.     | $1600 | 
     | APPLIED TECH NO      | $100  |  
