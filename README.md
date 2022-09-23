@@ -7,7 +7,7 @@
     | CREATION TECHNOLOGIES WISCONSIN INC.     | $1600 | 
     | APPLIED TECH NO      | $100  |  
     | ASTROCAST SA | $1    |    
-- Current Solution: Before implementing the model, we group those manually. We identify those customers with high budget flags and assign the correct groupings to them.
+- Current Solution: Before implementing the model, we grouped those manually. We identified customers with high budget flags and assigned the correct groupings to them.
 - Goal: The model is designed to efficiently group similar customers in a large dataset with less working time and higher accuracy.
 - Tech used: R-Studio
 
@@ -21,7 +21,4 @@ A Naive Bayes classifer will be used in this machine learning modeling. The proc
   6. Naive Bayes Model Preparation
   7. Train model on the data
   8. Predict and Evaluate
-
-## Why chosing Naive Bayes Model?
- - Please refer to another repository regarding text mining.
 
